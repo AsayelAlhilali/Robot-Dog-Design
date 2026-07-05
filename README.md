@@ -1,2 +1,2 @@
 # Robot-Dog-Design
-Portfolio of engineering assignments, designs, and technical documentation
+Portfolio of robotic dog design assignments and technical documentation.
