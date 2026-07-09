@@ -17,5 +17,5 @@ This project is about image classification model created using **Teachable Machi
 - Pillow
 
 ## Output
-The program predicts successfully the class of the test image **Class: cheetah** and displays the **Confidence Score: 0.9996562**.
+The program predicts successfully the class of the test image **cheetah** and displays the **Confidence Score: 0.9996562** ✅.
 
