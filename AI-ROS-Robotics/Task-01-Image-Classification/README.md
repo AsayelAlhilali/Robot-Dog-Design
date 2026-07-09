@@ -1,7 +1,7 @@
 # Task 01 - Image Classification
 
 ## Overview
-This project is about image classification model created using **Teachable Machine** and **Python**. The model classifies input images into one of two animal Lion :Lion: or Cheetah :Cheetah:
+This project is about image classification model created using **Teachable Machine** and **Python**. The model classifies input images into one of two animal Lion 🦁 or Cheetah 🐆
 
 ## Files
 - `Image Classification with Teachable Machine.ipynb` – Python code.
