@@ -1,4 +1,4 @@
-<img width="347" height="375" alt="لقطة شاشة 2026-07-19 183423" src="https://github.com/user-attachments/assets/4aa8720a-fd45-401a-9068-f07c2ded90fa" /><img width="377" height="661" alt="لقطة شاشة 2026-07-19 183410" src="https://github.com/user-attachments/assets/7c0e0430-1ef2-4b8f-846d-2c85d4037d9e" /><img width="725" height="642" alt="لقطة شاشة 2026-07-19 183114" src="https://github.com/user-attachments/assets/8304636d-ef5a-407b-8263-3de66af47157" /><img width="725" height="642" alt="لقطة شاشة 2026-07-19 183114" src="https://github.com/user-attachments/assets/99001576-5404-4324-98be-c3bda0820dbb" /># Robot Dog Mechanical Design
+# Robot Dog Mechanical Design
 
 ## Overview
 This project presents a simple mechanical design of a robot dog, The design aims to provide a stable and efficient foundation for future robot development.
@@ -14,13 +14,13 @@ This project presents a simple mechanical design of a robot dog, The design aims
 8. Expected Mechanical Issues
 
 ## Robot Body and Chassis 
-The robot has a rectangular PLA chassis with rounded corners that supports most of the main components, such as the battery and motors. Each of the four legs is attached to one corner of the chassis, for walking and balance. ![Robot](لقطة شاشة 2026-07-19 183114.png)
+The robot has a rectangular PLA chassis with rounded corners that supports most of the main components, such as the battery and motors. Each of the four legs is attached to one corner of the chassis, for walking and balance. [Robot](لقطة شاشة 2026-07-19 183114.png)
 )
 
 ## 2. Leg Design
 
 Each leg consists of two main links: the femur and the tibia. A rubber pad is attached to the end of each leg to serve as the foot, providing the necessary friction during movement. The femur is connected to a dedicated MG996R servo motor, allowing independent movement of all four legs.
-![RobotLeg](لقطة شاشة 2026-07-19 183410.png)
+[RobotLeg](لقطة شاشة 2026-07-19 183410.png)
 
 
 
@@ -34,7 +34,7 @@ Each leg has two joints, providing **2 DOF** per leg.
 ## 4. Actuator Selection
 
 The robot uses **MG996R servo motors** to actuate the leg joints due to their high torque and suitability for lightweight quadruped robots.
-![servo](لقطة شاشة 2026-07-19 183423.png)
+[servo](لقطة شاشة 2026-07-19 183423.png)
 
 
 ## 5. Torque Calculation
