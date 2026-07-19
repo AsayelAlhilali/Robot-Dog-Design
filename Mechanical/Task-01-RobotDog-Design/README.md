@@ -14,13 +14,12 @@ This project presents a simple mechanical design of a robot dog, The design aims
 8. Expected Mechanical Issues
 
 ## Robot Body and Chassis 
-The robot has a rectangular PLA chassis with rounded corners that supports most of the main components, such as the battery and motors. Each of the four legs is attached to one corner of the chassis, for walking and balance. [Robot](لقطة شاشة 2026-07-19 183114.png)
-)
+The robot has a rectangular PLA chassis with rounded corners that supports most of the main components, such as the battery and motors. Each of the four legs is attached to one corner of the chassis, for walking and balance. [Robot](<لقطة شاشة 2026-07-19 183114.png>)
 
 ## 2. Leg Design
 
 Each leg consists of two main links: the femur and the tibia. A rubber pad is attached to the end of each leg to serve as the foot, providing the necessary friction during movement. The femur is connected to a dedicated MG996R servo motor, allowing independent movement of all four legs.
-[RobotLeg](لقطة شاشة 2026-07-19 183410.png)
+[RobotLeg](<لقطة شاشة 2026-07-19 183410.png>)
 
 
 
@@ -34,7 +33,7 @@ Each leg has two joints, providing **2 DOF** per leg.
 ## 4. Actuator Selection
 
 The robot uses **MG996R servo motors** to actuate the leg joints due to their high torque and suitability for lightweight quadruped robots.
-[servo](لقطة شاشة 2026-07-19 183423.png)
+[servo](<لقطة شاشة 2026-07-19 183423.png>)
 
 
 ## 5. Torque Calculation
