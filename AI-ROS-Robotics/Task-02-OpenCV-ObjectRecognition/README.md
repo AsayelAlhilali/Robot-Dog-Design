@@ -22,6 +22,7 @@ The model was tested using random everyday objects, including:
 - ✂️ Scissors
 - 🪑 Chair
 - 💧 Water BottleThe
+
 detected objects were displayed with bounding boxes, labels, and confidence scores in real time.
 
 ## Results
