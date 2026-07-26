@@ -27,3 +27,8 @@ The model was tested using random everyday objects, including:
 detected objects were displayed with bounding boxes, labels, and confidence scores in real time.
 
 ## Results
+-  [Water Bottle](Water_Bottle.png)
+-  [Cell Phone](Cell_Phone.png)
+-  [Cup](Cup.png)
+-  [Remote Control](Remote.png)
+-  [Scissors](Scissors.png)
