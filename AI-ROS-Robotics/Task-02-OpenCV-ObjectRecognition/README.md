@@ -32,3 +32,4 @@ detected objects were displayed with bounding boxes, labels, and confidence scor
 -  [Cup](Cup.png)
 -  [Remote Control](Remote.png)
 -  [Scissors](Scissors.png)
+✅ The model achieved high confidence scores for the tested objects, indicating accurate real-time object recognition.
