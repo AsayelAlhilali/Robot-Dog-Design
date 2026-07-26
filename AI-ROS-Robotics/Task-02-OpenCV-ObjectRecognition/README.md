@@ -18,10 +18,11 @@ This project performs real-time object recognition using a laptop camera with Op
 
 ## Testing
 The model was tested using random everyday objects, including:
-- 📖 Book
+- 💧 Water Bottle
+- 📱 Cell Phone
 - ✂️ Scissors
-- 🪑 Chair
-- 💧 Water BottleThe
+- ☕ Cup
+-  Remote 
 
 detected objects were displayed with bounding boxes, labels, and confidence scores in real time.
 
