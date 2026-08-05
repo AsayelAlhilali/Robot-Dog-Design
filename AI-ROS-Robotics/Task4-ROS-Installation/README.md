@@ -81,9 +81,9 @@ humble
 ## Screenshots
 ### Update the system
 
-![Update System](screenshots/update-system.png.png)
+![Update System](screenshots/update-system.png)
 
 ### Verify ROS Distribution
 
-![ROS Distribution](screenshots/ros-distribution.png.png)
+![ROS Distribution](screenshots/ros-distribution.png)
 
